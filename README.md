@@ -27,7 +27,7 @@ Click on the "Home" tab in the ribbon at the top of the Power BI window.
 Click on "Get Data" and then select "Text/CSV" from the list of available data sources.
 
 4. Select CSV File
-Locate and select the "SuperStore_sales_Dataset.csv" file from your file system, then click "Open."
+Locate and select the "SuperStore_sales_Dataset.csv" file from your file system, then click "Open".
 
 5. Load Data
 After selecting the file, a window will appear showing a preview of the data. Ensure the settings (such as delimiter and data type detection) are correct, then click "Load" to import the data into Power BI.
